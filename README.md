@@ -1,2 +1,2 @@
-# Karasuba
-Simple Karasuba Algorithm example using Java
+# Karatsuba
+Simple Karatsuba Algorithm example using Java
